@@ -19,7 +19,7 @@ A Java Swing-based desktop GUI application to design 2D house floor plans intera
 
 ## Screenshots
 > You can add a screenshot like `floorplan.png` here later!
-![alt text](<Screenshot 2025-06-23 165851.png>)
+![Floor plan demo](floorplan_demo.png)
 
 ## Contributors
 > Umaang Khambhati,
