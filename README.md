@@ -18,7 +18,7 @@ A Java Swing-based desktop GUI application to design 2D house floor plans intera
 - PNG assets for furniture/fixtures
 
 ## App Preview
-> !Here’s how the 2D Floor Planner looks while running:
+> Here’s how the 2D Floor Planner looks while running:
 ![Floor plan demo](floorplan_demo.png)
 
 ## Contributors
